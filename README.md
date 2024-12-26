@@ -19,7 +19,7 @@
    -Maintenance of the warehouse system
    -In charge of updating catalogs
 - 🔄 Routine : Eat - Sleep - Code - Train - Repeat
-- 📫 Contact xajidmartinez@gmail.com
+- 📫 Contact al222210593@gmail.com
 
 <br><br>
 
