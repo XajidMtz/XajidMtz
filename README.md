@@ -12,7 +12,7 @@
 
 <br>
 
-- I am a 22-year-old student who lives in CDMX, I am currently studying Cybersecurity Engineering and I have also obtained several courses on Pentesting, Forensic Security, Programming and Database management.
+- I am a 23-year-old student who lives in CDMX, I am currently studying Cybersecurity Engineering and I have also obtained several courses on Pentesting, Forensic Security, Programming and Database management.
 - During my University stay I participated in the creation of the Database which was responsible for managing the laboratories and the income from the Hardware tools.
 - Developer Experience
    -Raising requirements.
